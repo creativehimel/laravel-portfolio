@@ -1,5 +1,5 @@
 <!-- ====== Contact Section Start -->
-<section
+<section id="contact"
    class="relative z-10 overflow-hidden bg-white dark:bg-dark py-20 lg:py-[120px]"
    >
    <div class="container mx-auto">
@@ -10,7 +10,7 @@
                Contact Us
                </span>
                <h2
-                  class="text-dark dark:text-white mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]"
+                  class="text-dark  mb-6 text-[32px] font-bold uppercase sm:text-[40px] lg:text-[36px] xl:text-[40px]"
                   >
                   GET IN TOUCH WITH US
                </h2>
@@ -39,7 +39,7 @@
                      </svg>
                   </div>
                   <div class="w-full">
-                     <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">
+                     <h4 class="mb-1 text-xl font-bold text-dark ">
                         Our Location
                      </h4>
                      <p class="text-base text-body-color dark:text-dark-6">
@@ -80,7 +80,7 @@
                      </svg>
                   </div>
                   <div class="w-full">
-                     <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">
+                     <h4 class="mb-1 text-xl font-bold text-dark">
                         Phone Number
                      </h4>
                      <p class="text-base text-body-color dark:text-dark-6">
@@ -106,7 +106,7 @@
                      </svg>
                   </div>
                   <div class="w-full">
-                     <h4 class="mb-1 text-xl font-bold text-dark dark:text-white">
+                     <h4 class="mb-1 text-xl font-bold text-dark">
                         Email Address
                      </h4>
                      <p class="text-base text-body-color dark:text-dark-6">
@@ -152,7 +152,7 @@
                   <div>
                      <button
                         type="submit"
-                        class="w-full p-3 text-white transition border rounded border-primary bg-primary hover:bg-opacity-90"
+                        class="w-full p-3 text-white transition border rounded border-indigo-600 bg-indigo-500 hover:bg-opacity-90"
                         >
                      Send Message
                      </button>
