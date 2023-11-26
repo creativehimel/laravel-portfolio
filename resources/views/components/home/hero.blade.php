@@ -1,4 +1,4 @@
-<section class="bg-white py-24 mt-2">
+<section class="bg-white py-24 mt-2" id="hero">
     <div class="container mx-auto flex justify-between items-center">
       <div class="grid grid-cols-2 md:grid-cols-2 items-center">
         <div class="space-y-4">
